@@ -1,0 +1,14 @@
+pyyaml
+eli5
+pyyaml
+statistics~=1.0.3.5
+bottle
+jinja2>=3.0
+jsonpickle
+joblib
+numpy
+nptyping==1.4.4
+pandas
+scipy
+scikit-learn
+matplotlib
