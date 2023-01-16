@@ -1,3 +1,4 @@
+featurecloud
 pyyaml
 eli5
 pyyaml
